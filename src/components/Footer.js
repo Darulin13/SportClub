@@ -11,7 +11,7 @@ const Paragraph = styled.p`
     color:white;
     width:95%;
 
-    font-size:1.5rem;
+    font-size:0.7rem;
     display:flex;
     flex-direction:row;
     justify-content:center;
